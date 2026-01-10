@@ -1,5 +1,5 @@
 # 💫 About Me:
-I Am a 3rd year student of B.TECH.CSE in Manav Rachna international Institute of research and studies and I am a motivated and enthusiastic B.Tech student passionate about software development, AI, and automation. With skilled expertise in Python, C , and web development, I have hands-on experience in real world projects that contribute to innovative tech solutions. I am eager to grow as a developer while delivering meaningful contributions to my team
+ Am a 3rd year student of B.TECH.CSE in Manav Rachna international Institute of research and studies and I am a motivated and enthusiastic B.Tech student passionate about software development, AI, and automation. With skilled expertise in Python, C , and web development, I have hands-on experience in real world projects that contribute to innovative tech solutions. I am eager to grow as a developer while delivering meaningful contributions to my team
 
 
 ## 🌐 Socials:
