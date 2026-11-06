@@ -1,9 +1,21 @@
 # 💫 About Me:
-I am a third-year B.Tech Computer Science student at Manav Rachna International Institute of Research and Studies, driven by a deep interest in software engineering, AI systems, and intelligent automation.
+AI & Technology Product Builder | Full-Stack Developer
 
-With strong foundations in Python, C, and web development, I have built and contributed to real-world projects involving automation workflows, AI agents, and scalable applications. I enjoy transforming ideas into functional solutions that solve practical problems.
+Focused on building AI-powered products, intelligent agents, agentic workflows, and scalable digital solutions that solve real-world business challenges.
 
-I am continuously exploring emerging technologies and aiming to grow into a skilled developer who delivers high-impact, innovative solutions to teams and organizations
+Experienced in developing voice AI systems, business automation platforms, custom enterprise solutions, centralized content management systems, and digital marketplaces.
+
+I enjoy taking ideas from concept to production, designing systems that simplify complex operations, and turning emerging technologies into practical products that deliver measurable business value.
+
+Passionate about AI innovation, intelligent automation, scalable architecture, and building technology that drives business growth and operational efficiency.AI & Technology Product Builder | Full-Stack Developer
+
+Focused on building AI-powered products, intelligent agents, agentic workflows, and scalable digital solutions that solve real-world business challenges.
+
+Experienced in developing voice AI systems, business automation platforms, custom enterprise solutions, centralized content management systems, and digital marketplaces.
+
+I enjoy taking ideas from concept to production, designing systems that simplify complex operations, and turning emerging technologies into practical products that deliver measurable business value.
+
+Passionate about AI innovation, intelligent automation, scalable architecture, and building technology that drives business growth and operational efficiency.
 
 
 ## 🌐 Socials:
